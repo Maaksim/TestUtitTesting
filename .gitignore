@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+xcuserdata
+.DS_Store
+Pods/
+*.xccheckout
+Crashlytics.framework/Crashlytics
+Crashlytics.framework/Headers
+Crashlytics.framework/Resources
+Crashlytics.framework/run
+Crashlytics.framework/submit
+Crashlytics.framework/Versions/Current
+Crashlytics.framework/Versions/A/Crashlytics
+Crashlytics.framework/Versions/A/Headers/Crashlytics.h
+Crashlytics.framework/Versions/A/Resources/Info.plist
