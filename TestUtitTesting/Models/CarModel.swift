@@ -25,7 +25,7 @@ class Car {
         }
         
         if self.type == .OffRoad && self.transmissionMode == .Drive {
-            speed = 80
+            speed = 50
         }
         
         if self.type == .Sport && self.transmissionMode == .Drive {
